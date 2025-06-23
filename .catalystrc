@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "14265000000022001",
+      "name": "Email-Microservice",
+      "domain": {
+        "id": "50028743595",
+        "name": "email-microservice-60038252694.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "60038252694",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
